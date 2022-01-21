@@ -9,9 +9,6 @@
 </p>
 <h1 align="center">Tommy Thompson</h1>
 
-# Tommy Thompson
-
-# **# T  his is Bold test**
 
 
 
