@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Tommy Thompson</h1>
-<ph align="center">Tommy Thompson</ph>
+<p align="center">Tommy Thompson</p>
 
 <p align="center">
 <img width="100" src="https://user-images.githubusercontent.com/30050564/150533510-943a9b51-c639-46f2-acfc-38c96e2b93ea.png">   
