@@ -7,6 +7,8 @@
 
 <h1 align="center">Tommy Thompson</h1>
 
+<p align="center">
+    // Your content
 
 
 
@@ -18,6 +20,9 @@
 ![React](https://user-images.githubusercontent.com/30050564/150533517-39cefdeb-f091-49c7-931d-f81238dfb012.png)
 ![React Native small](https://user-images.githubusercontent.com/30050564/150537202-ea4a18da-53ba-4b0a-9351-a90bac2d1891.png)
 ![WordPress](https://user-images.githubusercontent.com/30050564/150533518-9888a1c2-ddf0-494e-a41a-40f4514a7d92.png)
+
+</p>
+
 - 👋 Hi, I’m @thomasrthompsonllc
 - 👀 I’m interested in full stack website development 
 - 🌱 I’m currently refreshing my knowledge of various languages
