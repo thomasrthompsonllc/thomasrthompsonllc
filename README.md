@@ -4,9 +4,7 @@
 <img width="200" src="https://user-images.githubusercontent.com/30050564/150536409-616dbf95-de17-46a2-8c59-42cec0e03ddb.png">
 </p>
 
-<p align="center">
-![Tom3-small](https://user-images.githubusercontent.com/30050564/150536409-616dbf95-de17-46a2-8c59-42cec0e03ddb.png)
-</p>
+
 <h1 align="center">Tommy Thompson</h1>
 
 
