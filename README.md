@@ -1,6 +1,7 @@
 
 
-![Tom2](https://user-images.githubusercontent.com/30050564/150535079-f4760dee-d58a-4c23-88f5-815c5b86acde.jpg)
+![Tom2 one third size](https://user-images.githubusercontent.com/30050564/150535549-4a9a379d-2017-4a94-9718-d5ed0010ac6b.png)
+
 # Tommy Thompson
 
 # **# T  his is Bold test**
