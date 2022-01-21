@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 ->
 ![This is an image](/thomasrthompsonllc/language-images/React.png)
 ![JavaScript](https://user-images.githubusercontent.com/30050564/150526868-3f12dd28-1a76-4544-a2c0-37a647a7a907.png)
-![GitHub Logo](/language-images/React.png)
+![GitHub Logo](/language-images-/React.png)
