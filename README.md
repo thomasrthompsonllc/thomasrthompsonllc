@@ -2,6 +2,7 @@
 
 <p align="center">
 <img width="200" src="https://user-images.githubusercontent.com/30050564/150536409-616dbf95-de17-46a2-8c59-42cec0e03ddb.png">
+<img width="200" src="https://user-images.githubusercontent.com/30050564/150533510-943a9b51-c639-46f2-acfc-38c96e2b93ea.png">
 </p>
 
 
@@ -13,8 +14,7 @@
 
 
 
-![Bootstrap](https://user-images.githubusercontent.com/30050564/150533510-943a9b51-c639-46f2-acfc-38c96e2b93ea.png)
-   
+![Bootstrap](https://user-images.githubusercontent.com/30050564/150533510-943a9b51-c639-46f2-acfc-38c96e2b93ea.png)   
 ![CSS](https://user-images.githubusercontent.com/30050564/150533513-c9cc771b-a27c-4c64-b468-9ac71ed831bc.png)
 ![HTML](https://user-images.githubusercontent.com/30050564/150533514-4eebd6ee-2990-498c-a85b-13786ccbc4e6.png)
 ![JavaScript](https://user-images.githubusercontent.com/30050564/150533515-84e7fe98-3e12-4f6d-bc39-3d26aa73a7ca.png)
