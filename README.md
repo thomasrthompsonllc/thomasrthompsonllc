@@ -1,6 +1,7 @@
 
 
-![Tom2 one third size](https://user-images.githubusercontent.com/30050564/150535549-4a9a379d-2017-4a94-9718-d5ed0010ac6b.png)
+![Tom3-small](https://user-images.githubusercontent.com/30050564/150536409-616dbf95-de17-46a2-8c59-42cec0e03ddb.png)
+
 
 # Tommy Thompson
 
