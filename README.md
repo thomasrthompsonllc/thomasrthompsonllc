@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomasrthompsonllc
 - 👀 I’m interested in full stack website development 
 - 🌱 I’m currently refreshing my knowledge of various languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on development projects with React
 - 📫 How to reach me tom@thomasrthompsonllc.com
 
 <!---
