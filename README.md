@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center">Tommy Thompson</h1>
+<h1 align="center">Tom Thompson</h1>
 <h3 align="center">I am a developer using React, React Native, Bootstrap, React-Bootstrap, HTML, CSS, and JavaScript</h3>
 
 <p align="center">
